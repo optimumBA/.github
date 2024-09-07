@@ -24,6 +24,7 @@ Share your project requirements and budget with us and we’ll get back to you s
   - [Testing Elixir releases in CI](https://optimum.ba/blog/testing-elixir-releases-in-ci)
   - [Feature preview (PR review) apps on Fly.io](https://optimum.ba/blog/feature-preview-pr-review-apps-on-fly-io)
   - [Zero downtime deployments with Fly.io](https://optimum.ba/blog/zero-downtime-deployments-with-fly-io)
+  - [Optimum infrastructure generator](https://optimum.ba/blog/optimum-infrastructure-generator)
 - [Client vs Server side interactions in Phoenix LiveView](https://optimum.ba/blog/client-vs-server-side-interactions-in-phoenix-liveview)
 
 ### Open source
@@ -34,3 +35,9 @@ Share your project requirements and budget with us and we’ll get back to you s
 - [optimumBA/github_workflows_generator](https://github.com/optimumBA/github_workflows_generator)  
   Enables writing GitHub Actions workflow files in Elixir to reduce duplication and improve maintenance of workflow YAML files.  
   Read about it here: [Maintaining GitHub Actions workflows](https://optimum.ba/blog/maintaining-github-actions-workflows).
+
+### Premium
+
+- [optimum_gen_infra](https://hex.codecodeship.com/package/optimum_gen_infra)  
+  The Optimum infrastructure generator streamlines the setup of local CI, CI/CD pipelines in GitHub Actions, and Fly.io environments (preview, staging, and production) with integrated health checks, ensuring efficient workflows for Elixir and Phoenix apps.  
+  Find out more in [the blog post](https://optimum.ba/blog/optimum-infrastructure-generator).
