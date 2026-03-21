@@ -1,18 +1,33 @@
-Software development agency specializing in full-stack development using Elixir, Phoenix, Phoenix LiveView, PostgreSQL, and Javascript. We write high-quality code in a test-driven manner, have experience setting up continuous integration (CI) using GitHub Actions, deploying Elixir applications to various hosting providers, etc. We are a one-stop shop for everything Elixir-related.
+We build AI-powered products with Elixir and Phoenix.
 
-Whether you’re building a PoC or MVP app, or need someone to take over your app running in production, you’re at the right place!
+### Products
 
-We can help you with:  
-🏗️ building new features  
-👨‍🏭 refactoring existing code  
-🧑‍💻 facilitating the developer onboarding experience  
-📈 improving software development workflows and practices  
-🚀 deploying Elixir apps to Fly.io, AWS, and Google Cloud  
-🛠️ setting up CI/CD pipelines using GitHub Actions
+- [ElixirDrops](https://elixirdrops.net) — Elixir code snippets, shared by the community
+- [Skeptic.bot](https://skeptic.bot) — Podcast research assistant
 
-If you’re looking for a top-notch and reliable software development agency for your next project, send us an email.  
-Share your project requirements and budget with us and we’ll get back to you shortly. Let’s bring your vision to life!  
-[projects@optimum.ba](mailto:projects@optimum.ba)
+### Websites
+
+- [Phx.tools](https://phx.tools) ([repo](https://github.com/optimumBA/phx.tools))<br>
+  The easiest way to get started with Elixir and Phoenix Framework
+- [WhyElixir](https://whyelixir.dev) ([repo](https://github.com/optimumBA/whyelixir.dev))<br>
+  Why Elixir is a great choice for building scalable software
+- [Optimum](https://optimum.ba) ([repo](https://github.com/optimumBA/optimum.ba))<br>
+  Our company website
+
+### Open source
+
+- [optimumBA/github_workflows_generator](https://github.com/optimumBA/github_workflows_generator)<br>
+  Write GitHub Actions workflow files in Elixir to reduce duplication and improve maintenance.
+- [optimumBA/optimum_credo](https://github.com/optimumBA/optimum_credo)<br>
+  Custom Credo checks for Elixir projects.
+- [optimumBA/optimum_templates](https://github.com/optimumBA/optimum_templates)<br>
+  Phoenix generator templates with Credo rules enforced.
+
+### Premium
+
+- **optimum_gen_infra**<br>
+  Streamlines the setup of local CI, CI/CD pipelines in GitHub Actions, and deployment environments with integrated health checks for Elixir and Phoenix apps.<br>
+  Interested? Reach out at [tools@optimum.ba](mailto:tools@optimum.ba)
 
 ### Blog posts
 
@@ -27,17 +42,7 @@ Share your project requirements and budget with us and we’ll get back to you s
   - [Optimum infrastructure generator](https://optimum.ba/blog/optimum-infrastructure-generator)
 - [Client vs Server side interactions in Phoenix LiveView](https://optimum.ba/blog/client-vs-server-side-interactions-in-phoenix-liveview)
 
-### Open source
+---
 
-- [optimumBA/phx.tools](https://github.com/optimumBA/phx.tools)  
-  The easiest way to get started with Elixir and Phoenix Framework.  
-  Introduced with the blog post [phx.tools: Complete Development Environment for Elixir and Phoenix](https://optimum.ba/blog/phx-tools-complete-development-environment-for-elixir-and-phoenix).
-- [optimumBA/github_workflows_generator](https://github.com/optimumBA/github_workflows_generator)  
-  Enables writing GitHub Actions workflow files in Elixir to reduce duplication and improve maintenance of workflow YAML files.  
-  Read about it here: [Maintaining GitHub Actions workflows](https://optimum.ba/blog/maintaining-github-actions-workflows).
-
-### Premium
-
-- [optimum_gen_infra](https://hex.codecodeship.com/package/optimum_gen_infra)  
-  The Optimum infrastructure generator streamlines the setup of local CI, CI/CD pipelines in GitHub Actions, and Fly.io environments (preview, staging, and production) with integrated health checks, ensuring efficient workflows for Elixir and Phoenix apps.  
-  Find out more in [the blog post](https://optimum.ba/blog/optimum-infrastructure-generator).
+Building something with Elixir and AI? We're selectively open to project collaborations.
+Reach out at [projects@optimum.ba](mailto:projects@optimum.ba)
