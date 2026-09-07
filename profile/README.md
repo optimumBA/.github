@@ -1,7 +1,8 @@
-We build AI-powered products with Elixir and Phoenix.
+Optimum Tech is the company behind our software products and developer tooling. From 2022 to January 2026, we ran Optimum BH, an Elixir and Phoenix agency. Our focus is now software products and developer tooling, including Kogen.
 
 ### Products
 
+- [Kogen](https://kogen.dev) ([source](https://github.com/KogenAI/kogen)) — A software-building system designed to turn a shaped feature into an accepted commit through implementation, checks, independent review, and rework. Open-source development preview.
 - [ElixirDrops](https://elixirdrops.net) — Elixir code snippets, shared by the community
 - [Skeptic.bot](https://skeptic.bot) — Podcast research assistant
 
@@ -44,5 +45,4 @@ We build AI-powered products with Elixir and Phoenix.
 
 ---
 
-Building something with Elixir and AI? We're selectively open to project collaborations.
-Reach out at [projects@optimum.ba](mailto:projects@optimum.ba)
+Current focus: [Kogen](https://kogen.dev) — shape the feature and leave the build to Kogen.
