@@ -1,4 +1,12 @@
-Optimum Tech is the company behind our software products and developer tooling. From 2022 to January 2026, we ran Optimum BH, an Elixir and Phoenix agency. Our focus is now software products and developer tooling, including Kogen.
+## Good software starts with deciding what matters.
+
+Optimum Tech helps businesses decide what to build, develop the software, and put it to work. We combine product thinking with hands-on engineering, drawing on experience building our own products and delivering client projects.
+
+**Software development and product consulting**
+
+Bring us in to shape a product, build or improve an application, or help your team adopt and integrate our products.
+
+From 2022 to January 2026, we operated as Optimum BH, an Elixir and Phoenix agency.
 
 ### Products
 
@@ -45,4 +53,4 @@ Optimum Tech is the company behind our software products and developer tooling. 
 
 ---
 
-Current focus: [Kogen](https://kogen.dev) — shape the feature and leave the build to Kogen.
+**[Tell us what you’re building](mailto:almir@optimum.ba)**
