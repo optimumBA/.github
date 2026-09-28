@@ -9,8 +9,8 @@ Bring us an application that needs work, a feature you want to build, or a devel
 ## Products
 
 - [Kogen](https://kogen.dev/) ([source](https://github.com/KogenAI/kogen)) - A software-building system designed around feature shaping, implementation, checks and independent review.
-- [Combobulate](https://combobulate.dev/) - Build and publish a website through a conversation in Telegram.
-- [ElixirDrops](https://elixirdrops.net/) ([source](https://github.com/optimumBA/elixir_drops)) - Short notes and code snippets for Elixir and Phoenix developers.
+- [Combobulate](https://combobulate.dev/) - Build and publish static websites and Vite apps through Telegram.
+- [ElixirDrops](https://elixirdrops.net/) ([source](https://github.com/optimumBA/elixir_drops)) - A platform for publishing and discovering practical Elixir and Phoenix tips.
 - [Skeptic.bot](https://skeptic.bot/) ([source](https://github.com/optimumBA/skeptic_bot)) - Search conspiracy and alternative podcasts, ask questions, and find the episodes behind the answers.
 
 ## Tools and resources
@@ -28,7 +28,7 @@ Earlier projects, preserved as public code archives. They are no longer maintain
 - [OptimumGenInfra](https://github.com/optimumBA/optimum_gen_infra) - Generated infrastructure and CI/CD configuration for Elixir and Phoenix applications. No longer sold.
 - [SaseMango](https://github.com/optimumBA/sase_mango) - Company research for the Sarajevo Stock Exchange.
 - [Prati.ba](https://github.com/optimumBA/prati_ba) - News discovery across Bosnian publications.
-- [Currency Watch](https://github.com/optimumBA/currency_watch) - An API for collecting and comparing exchange rates.
+- [Currency Watch](https://github.com/optimumBA/currency_watch) - An archived project for collecting and comparing exchange rates.
 - [Dota.ba](https://github.com/optimumBA/dotaba) - Our former Bosnian and Balkan Dota community website.
 
 ### Blog posts
