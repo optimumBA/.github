@@ -1,45 +1,39 @@
-## Good software starts with deciding what matters.
+# Good software starts with deciding what matters.
 
-Optimum Tech helps businesses decide what to build, develop the software, and put it to work. We combine product thinking with hands-on engineering, drawing on experience building our own products and delivering client projects.
+We help teams decide what to build and carry it through to working software. Our work covers Elixir and Phoenix applications, AI features, and the development workflows that support them.
 
-**Software development and product consulting**
+Bring us an application that needs work, a feature you want to build, or a development process that keeps getting in the way. We can help define the scope, work on the implementation, and put useful checks around the result.
 
-Bring us in to shape a product, build or improve an application, or help your team adopt and integrate our products.
+**[Tell us what you're building](mailto:consulting@optimum.ba)**
 
-From 2022 to January 2026, we operated as Optimum BH, an Elixir and Phoenix agency.
+## Products
 
-### Products
+- [Kogen](https://kogen.dev/) ([source](https://github.com/KogenAI/kogen)) - A software-building system designed around feature shaping, implementation, checks and independent review.
+- [Combobulate](https://combobulate.dev/) - Build and publish static websites and Vite apps through Telegram.
+- [ElixirDrops](https://elixirdrops.net/) ([source](https://github.com/optimumBA/elixir_drops)) - A platform for publishing and discovering practical Elixir and Phoenix tips.
+- [Skeptic.bot](https://skeptic.bot/) ([source](https://github.com/optimumBA/skeptic_bot)) - Search conspiracy and alternative podcasts, ask questions, and find the episodes behind the answers.
 
-- [Kogen](https://kogen.dev) ([source](https://github.com/KogenAI/kogen)) — A software-building system designed to turn a shaped feature into an accepted commit through implementation, checks, independent review, and rework. Open-source development preview.
-- [ElixirDrops](https://elixirdrops.net) — Elixir code snippets, shared by the community
-- [Skeptic.bot](https://skeptic.bot) — Podcast research assistant
+## Tools and resources
 
-### Websites
+- [phx.tools](https://phx.tools/) - Set up an Elixir and Phoenix development environment on Linux or macOS.
+- [Why Elixir?](https://whyelixir.dev/) - An introduction to Elixir and why we use it.
+- [OptimumCredo](https://github.com/optimumBA/optimum_credo) - Custom Credo checks for Elixir projects.
+- [GitHub Workflows Generator](https://github.com/optimumBA/github_workflows_generator) - Define GitHub Actions workflows in Elixir and generate the YAML.
+- [Optimum Templates](https://github.com/optimumBA/optimum_templates) - Phoenix generator templates that follow Optimum's Credo rules.
 
-- [Phx.tools](https://phx.tools) ([repo](https://github.com/optimumBA/phx.tools))<br>
-  The easiest way to get started with Elixir and Phoenix Framework
-- [WhyElixir](https://whyelixir.dev) ([repo](https://github.com/optimumBA/whyelixir.dev))<br>
-  Why Elixir is a great choice for building scalable software
-- [Optimum](https://optimum.ba) ([repo](https://github.com/optimumBA/optimum.ba))<br>
-  Our company website
+## Archived projects
 
-### Open source
+Earlier projects, preserved as public code archives. They are no longer maintained.
 
-- [optimumBA/github_workflows_generator](https://github.com/optimumBA/github_workflows_generator)<br>
-  Write GitHub Actions workflow files in Elixir to reduce duplication and improve maintenance.
-- [optimumBA/optimum_credo](https://github.com/optimumBA/optimum_credo)<br>
-  Custom Credo checks for Elixir projects.
-- [optimumBA/optimum_templates](https://github.com/optimumBA/optimum_templates)<br>
-  Phoenix generator templates with Credo rules enforced.
-
-### Premium
-
-- **optimum_gen_infra**<br>
-  Streamlines the setup of local CI, CI/CD pipelines in GitHub Actions, and deployment environments with integrated health checks for Elixir and Phoenix apps.<br>
-  Interested? Reach out at [tools@optimum.ba](mailto:tools@optimum.ba)
+- [OptimumGenInfra](https://github.com/optimumBA/optimum_gen_infra) - Generated infrastructure and CI/CD configuration for Elixir and Phoenix applications. No longer sold.
+- [SaseMango](https://github.com/optimumBA/sase_mango) - Company research for the Sarajevo Stock Exchange.
+- [Prati.ba](https://github.com/optimumBA/prati_ba) - News discovery across Bosnian publications.
+- [Currency Watch](https://github.com/optimumBA/currency_watch) - An archived project for collecting and comparing exchange rates.
+- [Dota.ba](https://github.com/optimumBA/dotaba) - Our former Bosnian and Balkan Dota community website.
 
 ### Blog posts
 
+- [Opening up our code](https://optimum.ba/blog/opening-up-our-code/)
 - [phx.tools: Complete Development Environment for Elixir and Phoenix](https://optimum.ba/blog/phx-tools-complete-development-environment-for-elixir-and-phoenix)
 - [How to Automate Creating and Destroying Pull Request Review Phoenix Applications on Fly.io](https://optimum.ba/blog/how-to-automate-creating-and-destroying-pull-request-review-phoenix-applications-on-fly-io)
 - [Elixir DevOps series](https://optimum.ba/blog/elixir-devops-series)
@@ -51,6 +45,9 @@ From 2022 to January 2026, we operated as Optimum BH, an Elixir and Phoenix agen
   - [Optimum infrastructure generator](https://optimum.ba/blog/optimum-infrastructure-generator)
 - [Client vs Server side interactions in Phoenix LiveView](https://optimum.ba/blog/client-vs-server-side-interactions-in-phoenix-liveview)
 
+
 ---
 
-**[Tell us what you’re building](mailto:almir@optimum.ba)**
+From 2022 to January 2026, we operated as Optimum BH, an Elixir and Phoenix agency. Optimum Tech continues with products and consulting.
+
+[optimum.ba](https://optimum.ba/) · [LinkedIn](https://www.linkedin.com/company/optimum-tech-llc/) · [consulting@optimum.ba](mailto:consulting@optimum.ba)
